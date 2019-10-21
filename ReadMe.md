@@ -16,6 +16,9 @@
     └── securityAI_round1_images
 ```
 
+data文件百度网盘：[https://pan.baidu.com/s/1ws9WWCobTEQLg6ciBbBl5g&shfl=shareset ](https://pan.baidu.com/s/1ws9WWCobTEQLg6ciBbBl5g&shfl=shareset)  
+提取码：csxa
+
 ## 运行环境：
 
 一. Attack1的运行环境Win10 i5-6300U pytorch 1.2.0  
