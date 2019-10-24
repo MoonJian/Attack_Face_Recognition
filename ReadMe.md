@@ -3,15 +3,17 @@
 ## 文件结构
 ```
 ├── code
+│   ├── backbone
 │   ├── Attack1.py
 │   ├── Attack2.py
-│   ├── backbone
+|   ├── mean.csv
+|   ├── mean_ir_50_712_2.csv
+|   ├── IR_50.pth
 │   ├── Name_2.json
-│   ├── Name.json
-│   └── ReadMe.txt
+│   └── Name.json
 └── data
     ├── images
-    ├── lfw_cut
+    ├── lfw_cut    
     ├── securityAI_round1_dev.csv
     └── securityAI_round1_images
 ```
