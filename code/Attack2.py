@@ -55,7 +55,7 @@ for person in config.items():
     bad_name = person[1]['name']
 
     if stage == 'stage5':
-        mean_feat1 = pd.read_csv('./mean_ir_50.csv').rename(columns = {'Unnamed: 0':'name'})
+        mean_feat1 = pd.read_csv('./mean.csv').rename(columns = {'Unnamed: 0':'name'})
 
     for nnn in bad_name:
         print('processing: ', nnn)
